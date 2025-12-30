@@ -1,12 +1,5 @@
-<h1 align="center">Hi 👋, ich bin [Dein Name]</h1>
-<h3 align="center">💻 Developer | 🚀 Lernend | 🌱 Technik-begeistert</h3>
-
----
-
-### 🙋‍♂️ Über mich
-- 🔭 Ich arbeite aktuell an **eigenen Projekten**
-- 🌱 Ich lerne **Programmieren & neue Technologien**
-- 🎯 Ziel: **Besser werden & Spaß am Coden haben**
+<h1 align="center">Hi 👋, ich bin Keanu</h1>
+<h3 align="center">💻 Developer</h3>
 
 ---
 
@@ -20,7 +13,7 @@
 
 ---
 
-### 🛠 Tools & Technologien
+### 🛠 Tools
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -28,9 +21,4 @@
 </p>
 
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEINUSERNAME&show_icons=true&theme=tokyonight" />
-</p>
 
