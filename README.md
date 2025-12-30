@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, ich bin [Dein Name]</h1>
+<h1 align="center">Hi 👋, ich bin Keanu</h1>
 <h3 align="center">💻 Developer • 🚀 Lernend • 🌱 Technik-begeistert</h3>
 
 ---
 
-### 🙋‍♂️ Über mich
-- 💡 Ich interessiere mich für **Webentwicklung & Programmierung**
-- 🧠 Ich lerne ständig neue Technologien
-- 🎯 Ziel: Sauberer Code & coole Projekte
+### About
+- Fokus: FiveM & Web & Apps
+- Fachabitur: Wirtschaftsinformatik
+- Coding: C Sprachen mehr Kenntnis sammeln (c#, c++)
 
 ---
 
