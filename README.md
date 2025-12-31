@@ -15,7 +15,9 @@
   <img src="https://img.shields.io/badge/CSS3-1f2a44?style=for-the-badge&logo=css3&logoColor=7aa2f7" />
 </p>
 
-<hr style="border:0; height:0.3px; background:#1f2937;" />
+<p align="center">
+  <div style="width:40%; height:0.4px; background-color:#1f2937; margin:20px auto;"></div>
+</p>
 
 <p align="center" style="max-width:600px; margin:auto; color:#9ca3af;">
 Focused on clean code, modern web technologies and FiveM development.
