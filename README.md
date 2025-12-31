@@ -1,8 +1,6 @@
 <h1 align="center" style="font-weight:600;">Keanu</h1>
 <p align="center" style="color:#7aa2f7;">FiveM & Web & Apps Developer</p>
 
-<hr style="border:0; height:0.3px; background:#1f2937;" />
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/Keanu?label=Followers&style=for-the-badge&color=1f2a44&labelColor=1f2a44" />
   <img src="https://komarev.com/ghpvc/?username=Keanu&style=for-the-badge&color=1f2a44" />
