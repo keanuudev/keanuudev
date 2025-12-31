@@ -2,8 +2,8 @@
 <p align="center" style="color:#7aa2f7;">FiveM & Web & Apps Developer</p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Keanu?label=Followers&style=for-the-badge&color=1f2a44&labelColor=1f2a44" />
-  <img src="https://komarev.com/ghpvc/?username=Keanu&style=for-the-badge&color=1f2a44" />
+  <img src="https://img.shields.io/github/followers/keanuudev?label=Followers&style=for-the-badge&color=1f2a44&labelColor=1f2a44" />
+  <img src="https://komarev.com/ghpvc/?username=keanuudev&style=for-the-badge&color=1f2a44" />
 </p>
 
 <p align="center">
