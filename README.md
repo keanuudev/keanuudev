@@ -19,6 +19,6 @@
   <div style="border: 0.1px solid #ffffff"></div>
 </p>
 
-<p align="center" style="max-width:600px; margin:auto; color:#9ca3af;">
+<p align="center" style="max-width:500px; margin:auto; color:#9ca3af;">
 Focused on clean code, modern web technologies and FiveM development.
 </p>
