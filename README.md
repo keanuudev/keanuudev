@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <div style="width:40%; height:0.4px; background-color:#1f2937; margin:20px auto;"></div>
+  <div style="border: 0.1px solid #ffffff"></div>
 </p>
 
 <p align="center" style="max-width:600px; margin:auto; color:#9ca3af;">
