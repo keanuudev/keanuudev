@@ -1,5 +1,6 @@
 <h1 align="center" style="font-weight:600;">Keanu</h1>
 <p align="center" style="color:#7aa2f7;">FiveM & Web & Apps Developer</p>
+<p align="center" style="color:#7aa2f7;">FiveM & Web & Apps Developer</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/keanuudev?label=Followers&style=for-the-badge&color=1f2a44&labelColor=1f2a44" />
