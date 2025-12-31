@@ -24,5 +24,9 @@
 </p>
 
 <p align="center" style="max-width:500px; margin:auto; color:#9ca3af;">
+Working on FiveM Scripts, Discord Bot's and Web Panels.
+</p>
+
+<p align="center" style="max-width:500px; margin:auto; color:#9ca3af;">
 Focused on clean code, modern web technologies and FiveM development.
 </p>
