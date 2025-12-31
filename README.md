@@ -1,5 +1,5 @@
 <h1 align="center" style="font-weight:600;">Keanu</h1>
-<p align="center" style="color:#7aa2f7;">Web & Script Developer</p>
+<p align="center" style="color:#7aa2f7;">FiveM & Web & Apps Developer</p>
 
 <hr style="border:0; height:1px; background:#1f2937;" />
 
