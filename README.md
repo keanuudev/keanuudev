@@ -6,8 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=Keanu&style=for-the-badge&color=1f2a44" />
 </p>
 
-<hr style="border:0; height:0.3px; background:#1f2937;" />
-
 <p align="center">
   <img src="https://img.shields.io/badge/Lua-1f2a44?style=for-the-badge&logo=lua&logoColor=7aa2f7" />
   <img src="https://img.shields.io/badge/JavaScript-1f2a44?style=for-the-badge&logo=javascript&logoColor=7aa2f7" />
