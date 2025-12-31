@@ -23,7 +23,7 @@
   <div style="width:40%; height:0.2px; background-color:#1f2937; margin:16px auto;"></div>
 </p>
 
-<p align="center" style="max-width:200px; margin:auto; color:#9ca3af;">
+<p align="center" style="max-width:200px; margin:auto; font-size: 10px; color:#9ca3af;">
 Working on FiveM Scripts, Discord Bot's and Web Panels.
 </p>
 
