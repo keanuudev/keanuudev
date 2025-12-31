@@ -19,6 +19,10 @@
   <div style="border: 0.1px solid #ffffff"></div>
 </p>
 
+<p align="center">
+  <div style="width:40%; height:0.2px; background-color:#1f2937; margin:16px auto;"></div>
+</p>
+
 <p align="center" style="max-width:500px; margin:auto; color:#9ca3af;">
 Focused on clean code, modern web technologies and FiveM development.
 </p>
